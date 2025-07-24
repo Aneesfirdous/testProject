@@ -15,5 +15,6 @@ public class Merge {
 			merged[a.length+i]=b[i];
 		}
 		System.out.println(Arrays.toString(merged));
+		
 	}
 }
